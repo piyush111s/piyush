@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    width:100%;
+    text-align: center;
+    padding-top: 20px;
+}
+.container{
+    height: 540px;
+    width:25vw;
+    border: 5px solid black;
+    margin:0 auto;
+    border-radius: 10px;
+}
+#bottom{
+    background-color: red;
+}
